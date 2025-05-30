@@ -1,1 +1,1 @@
-# HR-dashboard-analystics-dashboard
+# HR-data-analystics-dashboard
